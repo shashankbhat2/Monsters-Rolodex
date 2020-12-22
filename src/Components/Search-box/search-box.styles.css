@@ -1,0 +1,13 @@
+.search{
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    font-family: Nato Sans,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    width: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    height: 50px;
+    text-align: center;
+}

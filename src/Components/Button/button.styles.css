@@ -1,0 +1,18 @@
+.button{
+    color: aliceblue;
+    background-color: blueviolet;
+    outline: none;
+    border: none;
+    font-weight: 550;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 200px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+}
+
+.button:hover{
+    background-color: turquoise;
+}
